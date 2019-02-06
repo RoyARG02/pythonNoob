@@ -1,0 +1,10 @@
+the operators
+    '||' for or
+    '&&' for and
+    '!' for not
+do not exist in python
+
+the 'greater than or equal to' operator should be explicitly
+' >= ' , NOT ' => '
+
+there is no '++' or '--' operator (increment/decrement) in python
