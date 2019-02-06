@@ -5,4 +5,3 @@ Data Types:
   4. Tuples
   5. Sets
   6. Dictionary
-  #. Special Functions
