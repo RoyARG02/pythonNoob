@@ -19,12 +19,20 @@ print('\n')
 print('The year is',2019)
 print('\n')
 
-#print spanning multiple lines
+#print spanning multiple lines(in editor)
 #statements/values in (),{} or []
 print('The quick brown fox jumps over the lazy dog',
     'lorem ipsum dolor sit amet, consectetur adipiscing elit, sed',
     'do eiusmod tempor incididunt')
 print('\n')
+#printing multiple lines in console
+print('''
+She's up all night 'til the sun
+I'm up all night to get some
+She's up all night for good fun
+I'm up all night to get lucky
+
+''')
 
 #showing the role of 'sep' and 'end'
 #sep is the character to be printed in between each of the valuse separated by commas
@@ -42,7 +50,7 @@ print('\n')
 
 '''escape sequences use '\' to give new(or deactivate) functionality
     of any character after it'''
-#some escape sequences appear to not work in IDLE
+#some escape sequences may appear to not work in IDLE
 
 #used escape sequence to display text properly
 print('There\'s vomit on his sweater already: Mom\'s spaghetti')
@@ -67,4 +75,3 @@ print('\n')
 #used everything here
 print('Defination of print():','print( \' String \' ,value,sep= \' \' ,end= \' \\ n \' ,file=sys.stdout,flush=False)',
       sep='\n',flush=True)
-
