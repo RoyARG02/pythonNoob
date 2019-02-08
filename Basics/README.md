@@ -6,3 +6,4 @@ Just the basics, nothin else.
   5. import
   6. Operators
   7. Suite
+  8. input()
