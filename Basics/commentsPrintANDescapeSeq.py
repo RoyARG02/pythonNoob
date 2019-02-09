@@ -48,6 +48,9 @@ print('The first letter of %s is %c'%('Python','P'))   #String alongwith charact
 print('%.3f'%23.44521)  #fractional number upto 3 decimal places
 print('\n')
 
+#formatting print using the format() function
+print('{0} so {1}? -{3}, {2}'.format('Why','serious',2008,'Heath Ledger'),end='\n\n')
+
 '''escape sequences use '\' to give new(or deactivate) functionality
     of any character after it'''
 #some escape sequences may appear to not work in IDLE
