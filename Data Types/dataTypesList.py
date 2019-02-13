@@ -27,3 +27,12 @@ print(num+ch)
 #slice operator
 print(list1[1:4])
 print(list1[2:])    #absence of index means till end/from beginning
+
+#unpacking of data in list
+'''"Unpacking" involves initializing a number of
+variables with each of the elements of a list,
+provided the no. of variables and the elements are
+same'''
+a,b,c=[2,3,89]
+print('a=',a,'b=',b,'c=',c)
+#a,b=[1,5,6,3,8,23]     #won't work
