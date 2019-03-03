@@ -60,7 +60,7 @@ print('There\'s vomit on his sweater already: Mom\'s spaghetti')
 #used escape sequence as alert
 print('This thing rings a bell: \a')
 #backspace
-print('Everybody knows the bird is the word\b')
+print('Everybody\b knows the bird is the word')
 #newline
 print('This is a line\nThis is a new line!')
 #space
