@@ -39,7 +39,7 @@ else:
     print('Even',end='\n\n')
 
 #conditional expression (similar to ?: in C/C++)
-#(statement if TRUE) if (condition) else (statement if FALSE)
+#(value if TRUE) if (condition) else (value if FALSE)
 n=int(input('Enter a number: '))
 roo=(n**0.5) if (n>0) else 0
 print('The square root of the number is',roo)
