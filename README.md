@@ -24,6 +24,6 @@ Some references which helped me along the way:
 - and of course, [Hackerrank](hackerrank.com), [GeeksforGeeks](geeksforgeeks.org), [Stack Overflow](stackoverflow.com) to name a few.
 
 
-_P.S:
+*P.S:
 - Since I have some background with C/C++ programming, I may involuntarily compare some concepts discussed here with that of in C/C++.
-- Please ignore the typos in the commented sections without making any faces. :P_
+- Please ignore the typos in the commented sections without making any faces. :P*
