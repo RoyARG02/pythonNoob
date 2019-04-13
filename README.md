@@ -20,8 +20,8 @@ The concepts are divided as:
 
 Some references which helped me along the way:
 - [Python 3 Basics Tutorial Series by Sentdex](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
-- [Learn Python](learnpython.org)
-- and of course, [Hackerrank](hackerrank.com), [GeeksforGeeks](geeksforgeeks.org), [Stack Overflow](stackoverflow.com) to name a few.
+- [Learn Python](http://learnpython.org/)
+- and of course, [Hackerrank](https://www.hackerrank.com/), [GeeksforGeeks](https://www.geeksforgeeks.org/), [Stack Overflow](https://stackoverflow.com/) to name a few.
 
 
 *P.S:*
