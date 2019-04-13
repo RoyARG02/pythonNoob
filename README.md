@@ -26,4 +26,4 @@ Some references which helped me along the way:
 
 *P.S:
 - Since I have some background with C/C++ programming, I may involuntarily compare some concepts discussed here with that of in C/C++.
-- Please ignore the typos in the commented sections without making any faces. :P*
+- Please ignore the typos in the commented sections without making any faces.*
