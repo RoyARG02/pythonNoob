@@ -1,7 +1,7 @@
 # pythonNoob
 ~~Felt cool, might push files to it later~~
 
-Basic (with a sprinkle of advanced) programming concepts and syntaxes for a noob to get started with Python programming.
+Basic (with a bit of advanced) programming concepts and syntaxes for a noob to get started with Python programming.
 Code is well written and commented for understanding.
 
 Pre-requisite: Some familiarity with computer programming in any language.
