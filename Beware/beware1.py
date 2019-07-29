@@ -24,4 +24,18 @@ def changeVar(var):
 
 var=int(input('Enter a integer '))
 var=changeVar(var)
-print(var)
+print('var after changeVar() =', var)
+
+#the 'global' keyword can also be used to denote the global variable
+#this also works for nested functions
+#'global' is not required if the variable is being accessed ONLY
+
+def changeGlob():
+    x = 15
+    def nestedGlob():
+        global var      #out of scope variable 'var' used here
+        var += x        #'x' is only being accessed, thus no 'global' required
+        print('var in nestedGlob() =', var)
+    nestedGlob()
+
+changeGlob()
